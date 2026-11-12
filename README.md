@@ -204,14 +204,6 @@ This work is based on the research paper:
 
 Presented at the **3rd IEEE International Conference on Women in Computing (InCoWoCo 2026)**.
 
-## Author
-
-**Siddhi Tambe**
-
-Computer Engineering Student
-
-GitHub: [siddhiptambe](https://github.com/siddhiptambe)
-
 ---
 
 ## License
